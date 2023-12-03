@@ -2,7 +2,7 @@
 ![image](https://github.com/craterr/Data-Visualisation/assets/106965125/40aef457-5066-4a8f-bde6-bb49a7f7be6e)
 
 ## Exploratory Data Analysis of Shopping trends in Python
-
+### For better insights and visualisation download the zip file. 
 # Dataset
 [`shopping_trends_updated.csv`](shopping_trends_updated.csv)
 # Structure of Data

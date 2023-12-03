@@ -3,6 +3,8 @@
 
 ## Exploratory Data Analysis of Shopping trends in Python
 
+# Dataset
+[`shopping_trends_updated.csv`](shopping_trends_updated.csv)
 # Structure of Data
 ![image](https://github.com/craterr/Data-Visualisation/assets/106965125/51444ba5-782b-4766-a689-b35bf94e4f1f)
 
